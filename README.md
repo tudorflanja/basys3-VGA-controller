@@ -159,3 +159,7 @@ The 25 MHz pixel clock ensures a frame rate of **60 Hz**, providing a stable dis
 
 The **Basys3 VGA Controller** demonstrates how an FPGA can generate synchronized video output using pure VHDL logic.  
 It integrates **timing control**, **color multiplexing**, and **interactive movement** into a compact digital design — ideal for learning FPGA display systems.
+
+---
+
+This project was created in collaboration with Daian Mihai.
