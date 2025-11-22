@@ -162,4 +162,4 @@ It integrates **timing control**, **color multiplexing**, and **interactive move
 
 ---
 
-This project was developed in collaboration with Daian Mihai, as part of our studies at the Technical University of Cluj-Napoca (UTCN) 🎓.
+This project was created in collaboration with Daian Mihai for the Digital System Design course at the Technical University of Cluj-Napoca (UTCN) 🎓.
